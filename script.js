@@ -13,24 +13,18 @@ const products = [
     },
     {
         id: 3,
-        name: "Sneakers",
-        price: 2999,
-        image: "https://i.pinimg.com/originals/6c/33/08/6c33081760b5d94ce9680ad7b77a7c1f.jpg"
-    },
-    {
-        id: 4,
         name: "Prismacolor Colored Pencils",
         price: 14999,
         image: "https://m.media-amazon.com/images/I/81AVlqcU6ZL._AC_SL1500_.jpg"
     },
     {
-        id: 5,
+        id: 4,
         name: "Himi Watercolors",
         price: 15199,
         image: "https://m.media-amazon.com/images/I/61n1kUUXseL._AC_.jpg"
     },
     {
-        id: 6,
+        id: 5,
         name: "A4 Art Sketchbook",
         price: 499,
         image: "https://www.gosupps.com/media/catalog/product/7/1/71mrpkslSuL_1.jpg"
